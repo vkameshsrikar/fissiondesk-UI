@@ -1,0 +1,14 @@
+[
+    {
+        "emailId": "kamesh@yopmail.com",
+        "password": "Test@123"
+    },
+    {
+        "emailId": "zameer@yopmail.com",
+        "password": "Test@123"
+    },
+    {
+        "emailId": "test@yopmail.com",
+        "password": "Test@123"
+    }
+]
